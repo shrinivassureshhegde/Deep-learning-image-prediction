@@ -121,10 +121,6 @@ epochs = 20
 data_dir = "/content/drive/MyDrive/NIKE_vs_ADIDAS-master"
 ```
 
-## 📄 License
-
-MIT License
-
 ## ✍️ Author
 
 **Shrinivas Suresh Hegde**
